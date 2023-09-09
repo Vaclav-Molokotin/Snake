@@ -1,0 +1,7 @@
+﻿  Cpp1.cpp
+D:\Data\С++\Cpp1\Cpp1\Cpp1.cpp(64,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Data\С++\Cpp1\Cpp1\Cpp1.cpp(65,48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Data\С++\Cpp1\Cpp1\Cpp1.cpp(72,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Data\С++\Cpp1\Cpp1\Cpp1.cpp(73,48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Data\С++\Cpp1\Cpp1\Cpp1.cpp(80,27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cpp1.vcxproj -> D:\Data\С++\Cpp1\Debug\Cpp1.exe
